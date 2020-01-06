@@ -20,31 +20,39 @@
    :caption: 获取资源
    :numbered:
 
-   DownLoad.rst
+   ./doc/DownLoad.rst
 
 .. toctree::
    :maxdepth: 1
    :caption: 源码编译
    :numbered:
 
-   BulidCode.rst
+   ./doc/BulidCode.rst
 
 
 .. toctree::
    :maxdepth: 1
    :caption: 下载运行
 
-   DownLoadRun.rst
+   ./doc/DownLoadRun.rst
+
+.. toctree::
+   :maxdepth: 1
+   :caption: 服务器搭建
+
+   ./doc/NFS.rst
+   ./doc/TFTP.rst
+   ./doc/Samb.rst
 
 .. toctree::
    :maxdepth: 1
    :caption: 版权
 
-   LICENSE.rst
+   ./doc/LICENSE.rst
    
 .. toctree::
    :maxdepth: 1
    :caption: TODO
 
-   TODO.rst
+   ./doc/TODO.rst
 

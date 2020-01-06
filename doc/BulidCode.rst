@@ -22,7 +22,7 @@
 
 执行后，可以手动配置裁剪内核
 
- .. image:: ./media/06.配置内核.png
+ .. image:: ../media/06.配置内核.png
     :align: center
 
 3.编译内核生成镜像文件uImage
@@ -35,7 +35,7 @@
 
 执行完后，如果有下图指示，说明编译内核成功
 
- .. image:: ./media/05.编译内核.png
+ .. image:: ../media/05.编译内核.png
     :align: center
 
 最终生成的镜像文件uImage在以下目录
@@ -75,7 +75,7 @@
 
 如果出现以下界面，证明编译uboot成功。
 
- .. image:: ./media/07.编译uboot.png
+ .. image:: ../media/07.编译uboot.png
     :align: center
 
 最终生成的镜像文件uboot_spl.bin和uboot.bin分别在以下目录
@@ -100,7 +100,7 @@
 
 如果出现以下界面，证明打包成功。
 
- .. image:: ./media/10.文件系统打包.png
+ .. image:: ../media/10.文件系统打包.png
     :align: center
 
 总结
