@@ -24,7 +24,7 @@
 
 4.  新建应用程序目录（里面有你的程序源码和makefile文件），该目录可以存放在你想存放的任何路径下，然后 在vscode软件中点击【File】->【add folder to workspace】选项，选择刚刚建立的自己的程序目录，如图是我本人的内核源码目录和应用程序目录。
 
-   ![image-20200107194303804](../media/19.kernel_filename.png)
+   ![内核文件路径](../media/19.kernel_filename.png)
 
 5.  【File】->【save workspace as ...】保存工作空间,命名vscode_workspace。注:工作空间的名字与路径随意。
 
@@ -534,7 +534,7 @@ autoconf.h 文件是C格式的，如下
 
 然后拷贝刚修改的 "includePath": [] 和 "defines": []，到自己应用程序目录下.vscode/c_cpp_properties.json 里面去，即确保内核和自己的应用程序都能找得到。
 
-![image-20200107195043492](../media/18.vscode_cfg.png)
+![vscode配置界面](../media/18.vscode_cfg.png)
 
 ### 设置左侧目录不自动展开
 

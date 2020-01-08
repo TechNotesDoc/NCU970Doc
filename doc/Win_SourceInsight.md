@@ -18,19 +18,19 @@
 
 1. 在电脑新建文件夹，命名为SI_Project（随便命名），打开Sources Insight4.0-》【Project】-》【New Project】，在弹出的New Project选项卡里面填写自己的工程名字和工程存放路径，这里路径我们选择刚刚创建的SI_Project文件夹
 
-   ![image-20200107202300603](../media/20.si_prj_cfg1.png)
+   ![填写工程名和选择工程存放路径](../media/20.si_prj_cfg1.png)
 
 2. 选择源码目录
 
-   ![image-20200107202804690](../media/21.si_pri_cfg2.png)
+   ![选择源码目录](../media/21.si_pri_cfg2.png)
 
 3. 添加内核源码到工程，用户可以自行选择需要把哪些源码加入到工程。
 
-   ![image-20200107202910844](../media/22.si_prj_cfg3.png)
+   ![添加源码到工程](../media/22.si_prj_cfg3.png)
 
 4. 【Project】-》【Synchronize Files】
 
-   ![image-20200107203225906](../media/23.si_prj_cfg3.png)
+   ![同步源码](../media/23.si_prj_cfg3.png)
 
    等待同步完成即可。
 
