@@ -38,6 +38,21 @@
 
 .. toctree::
    :maxdepth: 1
+   :caption: 服务器搭建
+
+   ./doc/NFS.rst
+   ./doc/TFTP.rst
+   ./doc/Samb.rst
+
+.. toctree::
+   :maxdepth: 1
+   :caption: 应用开发
+
+   ./doc/ubuntu_vscode_linux.md
+   ./doc/Win_SourceInsight.md
+
+.. toctree::
+   :maxdepth: 1
    :caption: 版权
 
    ./doc/LICENSE.rst
