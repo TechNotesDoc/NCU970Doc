@@ -14,22 +14,22 @@
 ------------------------------------
 1.用VMware® Workstation 15 Pro打开ubuntu18.04的镜像文件；
 
- .. image:: ./media/01.虚拟机打开镜像文件.png
+ .. image:: ../media/01.虚拟机打开镜像文件.png
     :align: center
 
- .. image:: ./media/02.开启虚拟机.png
+ .. image:: ../media/02.开启虚拟机.png
     :align: center
 
 2.输入密码123456，开机即可。
 
- .. image:: ./media/03.输入密码.png
+ .. image:: ../media/03.输入密码.png
     :align: center
  
 目录结构介绍
 ~~~~~~~~~~~~~~~
  /home/book 目录主要有nfs_rootfs、tftpboot、NUC970三个文件夹，功能如图所示。
 
- .. image:: ./media/04.目录结构.png
+ .. image:: ../media/04.目录结构.png
     :align: center
 
 GitHub资源介绍
