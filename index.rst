@@ -53,6 +53,18 @@
 
 .. toctree::
    :maxdepth: 1
+   :caption: 内核配置
+
+   ./doc/makemenuconfig.md
+
+.. toctree::
+   :maxdepth: 1
+   :caption: 外设验证
+
+   ./doc/PeripheralDev.md
+
+.. toctree::
+   :maxdepth: 1
    :caption: 版权
 
    ./doc/LICENSE.rst
