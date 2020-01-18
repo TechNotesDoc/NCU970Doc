@@ -65,6 +65,12 @@
 
 .. toctree::
    :maxdepth: 1
+   :caption: 自启动应用程序
+
+   ./doc/AutoRun.md
+
+.. toctree::
+   :maxdepth: 1
    :caption: 版权
 
    ./doc/LICENSE.rst
