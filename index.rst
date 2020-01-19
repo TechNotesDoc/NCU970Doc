@@ -20,54 +20,60 @@
    :caption: 获取资源
    :numbered:
 
-   ./doc/DownLoad.rst
+   ./doc/01.资源获取/资源获取.md
 
 .. toctree::
    :maxdepth: 1
    :caption: 源码编译
    :numbered:
 
-   ./doc/BulidCode.md
+   ./doc/02.源码编译/源码编译.md
 
 
 .. toctree::
    :maxdepth: 1
    :caption: 下载运行
+   :numbered:
 
-   ./doc/DownLoadRun.rst
+   ./doc/03.下载运行/下载运行.md
 
 .. toctree::
    :maxdepth: 1
    :caption: 服务器搭建
+   :numbered:
 
-   ./doc/NFS.rst
-   ./doc/TFTP.rst
-   ./doc/Samb.rst
+   ./doc/04.NFS/NFS服务器.md
+   ./doc/05.TFTP/TFTP服务器.md
+   ./doc/06.Samb/Samb服务器.md
 
 .. toctree::
    :maxdepth: 1
    :caption: 应用开发
+   :numbered:
 
-   ./doc/ubuntu_vscode_linux.md
-   ./doc/Win_SourceInsight.md
+   ./doc/07.Ubuntu下搭建vscode开发环境/Ubuntu下vscode搭建arm开发环境.md
+   ./doc/08.Win下SourceInSight搭建开发环境/SourceInSight搭建开发环境.md
 
 .. toctree::
    :maxdepth: 1
    :caption: 内核配置
+   :numbered:
 
-   ./doc/makemenuconfig.md
+   ./doc/09.内核配置/内核配置.md
 
 .. toctree::
    :maxdepth: 1
    :caption: 外设验证
+   :numbered:
 
-   ./doc/PeripheralDev.md
+   ./doc/10.外设验证/外设验证.md
 
 .. toctree::
    :maxdepth: 1
-   :caption: 自启动应用程序
+   :caption: 开机自启动
+   :numbered:
 
-   ./doc/AutoRun.md
+   ./doc/11.开机自启动/开启启动.md
 
 .. toctree::
    :maxdepth: 1
